@@ -27,14 +27,14 @@ But I'm not just a cloud enthusiast! When I'm not working on exciting cloud proj
 
 ## Certifications
 
-**Google Cloud Certified Associate Cloud Engineer** <br>
-**Google Cloud Certified Professional Cloud Architect**
-**Google Cloud Certified Professional Data Engineer**
-**Google Cloud Certified Professional Cloud Network Engineer
-Google Cloud Certified Professional Cloud Security Engineer
-Google Cloud Certified Professional Cloud DevOps Engineer
+Google Cloud Certified Associate Cloud Engineer <br>
+Google Cloud Certified Professional Cloud Architect <br>
+Google Cloud Certified Professional Data Engineer <br>
+Google Cloud Certified Professional Cloud Network Engineer <br>
+Google Cloud Certified Professional Cloud Security Engineer <br>
+Google Cloud Certified Professional Cloud DevOps Engineer <br>
 
-HashiCorp Certiffied Terraform Associate
+HashiCorp Certiffied Terraform Associate <br>
 
 
 ## Blog
