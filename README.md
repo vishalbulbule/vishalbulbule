@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Vishal Bulbule 
+# Hello, I'm Vishal Bulbule 👋
 
 ## Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
 
