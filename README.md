@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Vishal Bulbule 
 
-##  a Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
+## Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
 
 
 I'm a Google Cloud Architect with 6+ years of experience, with expertise in Google Cloud,Data Analytics and BI. 
