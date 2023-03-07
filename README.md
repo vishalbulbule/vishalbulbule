@@ -47,6 +47,9 @@ You can reach me at
 Email - vishal.bulbule@techtrapture.com
 connect with me on LinkedIn - https://www.linkedin.com/in/vishal-bulbule/
 
+Want to know more about me personally
+Connect with me on Instagram - https://www.instagram.com/vishal_bulbule/?hl=en
+
 
 ## YouTube Channel
 
