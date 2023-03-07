@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **vishalbulbule/vishalbulbule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Vishal Bulbule - a Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
+# Hello, I'm Vishal Bulbule 
 
-## About Me
+##  a Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
+
 
 I'm a Google Cloud Architect with 6+ years of experience, with expertise in Google Cloud,Data Analytics and BI. 
 
